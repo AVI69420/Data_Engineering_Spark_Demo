@@ -1,6 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.types import StructType, StructField, IntegerType, StringType, FloatType, TimestampType
-from . import config
+from src import config # Make sure you fixed the import line here too!
 
 def init_spark():
     """
