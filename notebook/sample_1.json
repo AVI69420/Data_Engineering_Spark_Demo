@@ -1,0 +1,8 @@
+[
+  {"event_id": "e001", "user_id": 101, "timestamp": "2023-01-01T10:00:00", "device": {"type": "mobile", "os": "android", "ip": "192.168.1.1"}, "watch_history": [{"content_id": "v001", "genre": "Action", "minutes_watched": 25}, {"content_id": "v002", "genre": "Comedy", "minutes_watched": 10}]},
+  {"event_id": "e002", "user_id": 102, "timestamp": "2023-01-01T10:05:00", "device": {"type": "smart_tv", "os": "webos", "ip": null}, "watch_history": [{"content_id": "v003", "genre": "Drama", "minutes_watched": 50}]},
+  {"event_id": "e003", "user_id": 101, "timestamp": "2023-01-01T10:35:00", "device": {"type": "mobile", "os": "android", "ip": "192.168.1.1"}, "watch_history": []},
+  {"event_id": "e004", "user_id": 103, "timestamp": null, "device": null, "watch_history": [{"content_id": "v004", "genre": "Action", " ": 100}]},
+  {"event_id": "e005", "user_id": 102, "timestamp": "2023-01-01T11:00:00", "device": {"type": "smart_tv", "os": "webos", "ip": "10.0.0.2"}, "watch_history": [{"content_id": "v001", "genre": "Action", "minutes_watched": 5}, {"content_id": "v005", "genre": "Horror", "minutes_watched": null}]},
+  {"event_id": "e006", "user_id": 104, "timestamp": "2023-01-02 09:00:00", "device": {"type": "web", "os": "", "ip": "192.168.1.5"}, "watch_history": [{"content_id": "v002", "genre": "Comedy", "minutes_watched": 30}]}
+]

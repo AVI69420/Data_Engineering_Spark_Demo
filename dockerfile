@@ -36,7 +36,7 @@ COPY . /app
 
 # 7. Install PySpark
 RUN pip install --upgrade pip && \
-    pip install pyspark
+    pip install pyspark pandas
 
 # 8. Run command
 CMD ["python", "main.py"]

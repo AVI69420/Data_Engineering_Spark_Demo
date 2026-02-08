@@ -1,0 +1,7 @@
+[
+  {"order_id": "o101", "user_id": 501, "timestamp": "2023-06-01 10:00:00", "status": "DELIVERED", "delivery_address": "123 Apple St, New York, NY, 10001", "items": [{"product_id": "p01", "price": 10.0, "qty": 2}, {"product_id": "p02", "price": 5.0, "qty": 1}]},
+  {"order_id": "o102", "user_id": 502, "timestamp": "2023-06-01 11:30:00", "status": "PENDING", "delivery_address": "456 Orange Ave, Los Angeles, CA", "items": [{"product_id": "p03", "price": 20.0, "qty": 1}]},
+  {"order_id": "o103", "user_id": 501, "timestamp": "2023-06-02 09:15:00", "status": "CANCELLED", "delivery_address": "123 Apple St, New York, NY, 10001", "items": [{"product_id": "p01", "price": 10.0, "qty": 10}]},
+  {"order_id": "o104", "user_id": 501, "timestamp": "2023-06-05 14:00:00", "status": "DELIVERED", "delivery_address": "123 Apple St, NYC, NY, 10001", "items": [{"product_id": "p04", "price": 50.0, "qty": 1}, {"product_id": "p02", "price": 5.0, "qty": 5}]},
+  {"order_id": "o105", "user_id": 503, "timestamp": "2023-06-06 16:45:00", "status": "DELIVERED", "delivery_address": "789 Banana Blvd, Miami, FL, 33101", "items": []}
+]
